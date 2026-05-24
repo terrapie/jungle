@@ -1,7 +1,8 @@
-
+<div style="text-align: center">
 # Klaudia Lata
 
 #### 📧 klaudia_lata@yahoo.com
+</div>
 ---
 
 ## Praktikum
@@ -17,8 +18,11 @@
 ## Profil
 <div style="text-align: center">
 Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK)  
+
 mit fundierter Erfahrung in der Analyse von Verkaufs- und Umsatzdaten.  
+
 Praxis in Reporting, Datenanalyse und Prozessoptimierung.  
+
 Analytisch denkend, strukturiert und stark an datenbasierten Lösungen orientiert.
 </div>
 ---
@@ -84,5 +88,5 @@ Siemianowice Śląskie, Polen — anerkannt durch Bezirksregierung Köln
 
 ## Hobbys
 <div style="text-align: center">
-Ölmalerei · Museumbesuche · Fotografie · Bildbearbeitung · KI-Bildgenerierung · Exotische Pflanzen (Hoyas, Anthurien) · Botanische Gärten · Mode · Trendkultur · osu! · Organisation von Online-Turnieren
+Ölmalerei · Museumbesuche · Fotografie · Bildbearbeitung · KI-Bildgenerierung · Exotische Pflanzen (Hoyas, Anthurien) · Botanische Gärten Mode · Trendkultur · osu! · Organisation von Online-Turnieren
 </div>
