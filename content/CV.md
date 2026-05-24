@@ -22,8 +22,7 @@ an datenbasierten Lösungen orientiert.
 ---
 
 ## IT-Kenntnisse
-
-- [[Projekte]]
+[[Projekte]]
 
 - **MS Excel** – Pivot, SVERWEIS, Dashboards
 - **SQL** – Erstellung und Bearbeitung von Tabellen sowie Datenbankabfragen (SELECT, WHERE, JOIN, GROUP BY)
