@@ -1,20 +1,28 @@
 <div style="text-align: center">
+
 # Klaudia Lata
 
-📧 klaudia_lata@yahoo.com
+### 📧 klaudia_lata@yahoo.com
 ---
 
 ## Praktikum
 
 **Daten- und Prozessanalyse**
+
 16.09.2026 – 22.02.2027 sowie 19.03.2027 – 16.04.2027
+
 **edv-anwendungsberatung zühlke & bieker GmbH**, Recklinghausen
 
 ---
 
+</div>
+
 ## Profil
 
-Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK) mit fundierter Erfahrung in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting, Datenanalyse und Prozessoptimierung. Analytisch denkend, strukturiert und stark an datenbasierten Lösungen orientiert.
+Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK)  
+mit fundierter Erfahrung in der Analyse von Verkaufs- und Umsatzdaten.  
+Praxis in Reporting, Datenanalyse und Prozessoptimierung.  
+Analytisch denkend, strukturiert und stark an datenbasierten Lösungen orientiert.
 
 ---
 
@@ -27,17 +35,6 @@ Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK) mit fundi
 - **SAP S/4HANA Foundation** – Zertifikat mit Auszeichnung, 03.03.2026
 - **KI-Tools** – Anwendung für Recherche und Strukturierung von Informationen
 - **UML & ER-Diagramme** – Verständnis relationaler Modelle und Erstellung von Diagrammen
-
----
-
-## Projekte
-
-| Datei | Beschreibung |
-|---|---|
-| `pivot_diagramme_excel.xlsx` | Pivot-Tabellen, SVERWEIS, Verkaufsdiagramme in Excel |
-| `sales.db` | Aufbau der Tabellen in SQLite |
-| `zoo_map.xlsx` | Normalisierung (1.–3. Normalform) in Excel |
-| `zoo_map.sql` | Aufbau der Tabellen in MySQL über phpMyAdmin |
 
 ---
 
