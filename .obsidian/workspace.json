@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hallo/Hallo Jungle.md",
+                "file": "Hallo/CV.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Hallo Jungle"
+              "title": "CV"
             }
           }
         ]
