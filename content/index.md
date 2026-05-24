@@ -17,3 +17,5 @@ Vielleicht wird dieser Ort nicht nur ein Archiv meines Lernprozesses, sondern au
 Zwischen Daten, Prozessen und persönlichen Ideen wächst hier etwas Eigenes.
 
 Willkommen
+
+[CV]
