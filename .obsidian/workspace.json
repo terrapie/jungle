@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hallo Jungle.md",
+                "file": "Hallo/Hallo Jungle.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,6 +186,7 @@
   },
   "active": "97e5af548ee55d5c",
   "lastOpenFiles": [
-    "Hallo Jungle.md"
+    "Hallo",
+    "Hallo/Hallo Jungle.md"
   ]
 }
