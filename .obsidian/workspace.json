@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hallo/CV.md",
+                "file": "Hallo/Hallo Jungle.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CV"
+              "title": "Hallo Jungle"
             }
           }
         ]
@@ -164,12 +164,25 @@
               "icon": "lucide-list",
               "title": "Gliederung von Hallo Jungle"
             }
+          },
+          {
+            "id": "e01bde8f3fe4ef5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Hallo/Hallo Jungle.md"
+              },
+              "icon": "lucide-info",
+              "title": "Dateieigenschaften von Hallo Jungle"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,9 +199,9 @@
   },
   "active": "6faa3aa3f2490e24",
   "lastOpenFiles": [
+    "Hallo/CV.md",
     "Hallo/Hallo Jungle.md",
     "index.md",
-    "Hallo/CV.md",
     "cv_git.pdf",
     "Unbenannt",
     "Hallo"
