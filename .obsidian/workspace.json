@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hallo Jungle ._..md",
+                "file": "Hallo Jungle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hallo Jungle ._."
+              "title": "Hallo Jungle"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hallo Jungle ._..md",
+                "file": "Hallo Jungle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf Hallo Jungle ._."
+              "title": "Rückverweise auf Hallo Jungle"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hallo Jungle ._..md",
+                "file": "Hallo Jungle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Hallo Jungle ._. öffnen"
+              "title": "Ausgehende Links von Hallo Jungle öffnen"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hallo Jungle ._..md",
+                "file": "Hallo Jungle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Hallo Jungle ._."
+              "title": "Gliederung von Hallo Jungle"
             }
           }
         ]
@@ -180,11 +180,12 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22f97504a2bb2e52",
+  "active": "97e5af548ee55d5c",
   "lastOpenFiles": [
-    "Hallo Jungle ._..md"
+    "Hallo Jungle.md"
   ]
 }
