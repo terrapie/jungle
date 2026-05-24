@@ -1,14 +1,14 @@
+<div style="text-align: center">
 # Klaudia Lata
 
-📧 klaudia_lata@yahoo.com · 📱 0174 3007170 · 📍 Von-Schwind-Straße 22, 45768 Marl
-
+📧 klaudia_lata@yahoo.com
 ---
 
 ## Praktikum
 
 **Daten- und Prozessanalyse**
 16.09.2026 – 22.02.2027 sowie 19.03.2027 – 16.04.2027
-edv-anwendungsberatung zühlke & bieker GmbH, Recklinghausen
+**edv-anwendungsberatung zühlke & bieker GmbH**, Recklinghausen
 
 ---
 
@@ -43,7 +43,7 @@ Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK) mit fundi
 
 ## Berufserfahrung
 
-### 03.2022 – 02.2025 · Visual Merchandiserin
+03.2022 – 02.2025 · Visual Merchandiserin
 **RESERVED**, Recklinghausen
 - Analyse von Verkaufs- und Umsatzdaten anhand von Sales Reports
 - Auswertung von Kennzahlen zur Optimierung von Verkaufsflächen und Prozessen
@@ -51,13 +51,13 @@ Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK) mit fundi
 - Dokumentation und Weitergabe von Analyseergebnissen
 - Organisation und Koordination von Waren- und Arbeitsabläufen
 
-### 10.2018 – 03.2022 · Lagermitarbeiterin
+10.2018 – 03.2022 · Lagermitarbeiterin
 **RESERVED**, Recklinghausen
 - Unterstützung logistischer Prozesse
 - Datenbasierte Bestandskontrolle
 - Mitarbeit an der Optimierung von Lager- und Ablaufprozessen
 
-### 10.2014 – 06.2018 · Monteurin
+10.2014 – 06.2018 · Monteurin
 **Rockwell Automation**, Katowice (Polen)
 - Technische Montage nach dokumentierten Prozessen
 - Präzises Arbeiten nach technischen Vorgaben und Standards
@@ -89,3 +89,4 @@ Siemianowice Śląskie, Polen — anerkannt durch Bezirksregierung Köln
 ## Hobbys
 
 Ölmalerei · Museumbesuche · Fotografie · Bildbearbeitung · KI-Bildgenerierung · Exotische Pflanzen (Hoyas, Anthurien) · Botanische Gärten · Mode · Trendkultur · osu! · Organisation von Online-Turnieren
+</div>
