@@ -4,7 +4,7 @@
 
 ---
 
-in meinem Garten – meiner kleinen Jungle
+**in meinem Garten – meiner kleinen Jungle**
 
 Diese Seite ist mein digitaler Raum zum Lernen, Dokumentieren und Wachsen.
 
