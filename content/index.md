@@ -1,3 +1,9 @@
+
+---
+# Willkommen
+
+---
+
 in meinem Garten – meiner kleinen Jungle
 
 Diese Seite ist mein digitaler Raum zum Lernen, Dokumentieren und Wachsen.
@@ -10,4 +16,4 @@ Vielleicht wird dieser Ort nicht nur ein Archiv meines Lernprozesses, sondern au
 
 Zwischen Daten, Prozessen und persönlichen Ideen wächst hier etwas Eigenes.
 
-Willkommen 🌿
+Willkommen
