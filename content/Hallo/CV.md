@@ -1,29 +1,26 @@
-<div style="text-align: center">
 
 # Klaudia Lata
 
-### 📧 klaudia_lata@yahoo.com
+#### 📧 klaudia_lata@yahoo.com
 ---
 
 ## Praktikum
+<div style="text-align: center">
+**Fachinformatikerin Daten- und Prozessanalyse**  
 
-**Daten- und Prozessanalyse**
-
-16.09.2026 – 22.02.2027 sowie 19.03.2027 – 16.04.2027
+16.09.2026 – 22.02.2027 sowie 19.03.2027 – 16.04.2027  
 
 **edv-anwendungsberatung zühlke & bieker GmbH**, Recklinghausen
-
+</div>
 ---
 
-</div>
-
 ## Profil
-
+<div style="text-align: center">
 Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK)  
 mit fundierter Erfahrung in der Analyse von Verkaufs- und Umsatzdaten.  
 Praxis in Reporting, Datenanalyse und Prozessoptimierung.  
 Analytisch denkend, strukturiert und stark an datenbasierten Lösungen orientiert.
-
+</div>
 ---
 
 ## IT-Kenntnisse
@@ -63,11 +60,13 @@ Analytisch denkend, strukturiert und stark an datenbasierten Lösungen orientier
 
 ## Ausbildung
 
-**07.2025 – voraussichtlich 07.2027**
+**07.2025 – voraussichtlich 07.2027**  
+
 Umschulung zur Fachinformatikerin für Daten- und Prozessanalyse (IHK)
 Comcave.College, Essen
 
-**09.2002 – 06.2012**
+**09.2002 – 06.2012**  
+
 Mittlerer Schulabschluss (Fachoberschulreife)
 Siemianowice Śląskie, Polen — anerkannt durch Bezirksregierung Köln
 
@@ -84,6 +83,6 @@ Siemianowice Śląskie, Polen — anerkannt durch Bezirksregierung Köln
 ---
 
 ## Hobbys
-
+<div style="text-align: center">
 Ölmalerei · Museumbesuche · Fotografie · Bildbearbeitung · KI-Bildgenerierung · Exotische Pflanzen (Hoyas, Anthurien) · Botanische Gärten · Mode · Trendkultur · osu! · Organisation von Online-Turnieren
 </div>
