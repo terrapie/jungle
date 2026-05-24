@@ -14,7 +14,9 @@
 ---
 ## Profil
 
-Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK) mit fundierter Erfahrung in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting, Datenanalyse und Prozessoptimierung. Analytisch denkend, strukturiert und stark
+Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK) mit fundierter Erfahrung
+in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting,
+Datenanalyse und Prozessoptimierung. Analytisch denkend, strukturiert und stark
 an datenbasierten Lösungen orientiert.
 
 ---
