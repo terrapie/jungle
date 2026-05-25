@@ -3,11 +3,11 @@
 Dashboard für monatliche Abteilungsmeetings. Gibt dem Geschäftsleiter einen Überblick über die Ticketbearbeitung aller Abteilungen - ohne Einzeldaten von Mitarbeitern, Fokus auf Teamleistung.
 Tickets über 60 Tage offen haben besondere Priorität.
 
-### User-Story:
+### User-Story
 
 *„Als Geschäftsleiter möchte ich einen monatlichen Überblick über die Ticketbearbeitung aller Abteilungen, um die Leistung im Abteilungsmeeting besprechen zu können."*
 
-### Ergebnis:
+### Ergebnis
 
 **Dashboard mit drei Bereichen:**
 
