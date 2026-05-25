@@ -14,15 +14,13 @@
 ---
 ## Profil
 
-Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK) mit fundierter Erfahrung
-in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting,
-Datenanalyse und Prozessoptimierung. Analytisch denkend, strukturiert und stark
-an datenbasierten Lösungen orientiert.
+**Fachinformatikerin für Daten- und Prozessanalyse (Umschulung – IHK)** mit fundierter Erfahrung
+in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting, Datenanalyse und Prozessoptimierung. Analytisch denkend, strukturiert und stark an datenbasierten Lösungen orientiert.
 
 ---
 
 ## IT-Kenntnisse
-[[Projekte]]
+### [[Projekte]]
 
 - **MS Excel** – Pivot, SVERWEIS, Dashboards
 - **SQL** – Erstellung und Bearbeitung von Tabellen sowie Datenbankabfragen (SELECT, WHERE, JOIN, GROUP BY)
@@ -36,7 +34,7 @@ an datenbasierten Lösungen orientiert.
 
 ## Berufserfahrung
 
-03.2022 – 02.2025 · Visual Merchandiserin
+**03.2022 – 02.2025 · Visual Merchandiserin**
 **RESERVED**, Recklinghausen
 - Analyse von Verkaufs- und Umsatzdaten anhand von Sales Reports
 - Auswertung von Kennzahlen zur Optimierung von Verkaufsflächen und Prozessen
@@ -44,13 +42,13 @@ an datenbasierten Lösungen orientiert.
 - Dokumentation und Weitergabe von Analyseergebnissen
 - Organisation und Koordination von Waren- und Arbeitsabläufen
 
-10.2018 – 03.2022 · Lagermitarbeiterin
+**10.2018 – 03.2022 · Lagermitarbeiterin**
 **RESERVED**, Recklinghausen
 - Unterstützung logistischer Prozesse
 - Datenbasierte Bestandskontrolle
 - Mitarbeit an der Optimierung von Lager- und Ablaufprozessen
 
-10.2014 – 06.2018 · Monteurin
+**10.2014 – 06.2018 · Monteurin**
 **Rockwell Automation**, Katowice (Polen)
 - Technische Montage nach dokumentierten Prozessen
 - Präzises Arbeiten nach technischen Vorgaben und Standards

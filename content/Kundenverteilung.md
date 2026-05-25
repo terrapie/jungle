@@ -1,4 +1,4 @@
-Python ☆ pandas ☆ MySQL ☆ Grafana
+pandas ☆ MySQL ☆ Grafana
 
 In diesem Projekt wurde eine Übersicht der Kundenverteilung eines Unternehmens nach Bundesland erstellt.
 
