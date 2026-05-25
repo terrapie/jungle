@@ -84,5 +84,5 @@ Siemianowice Śląskie, Polen — anerkannt durch Bezirksregierung Köln
 ## Hobbys
 
 <div style="text-align: center">
-Ölmalerei ☆ Museumbesuche ☆ Fotografie ☆ Bildbearbeitung ☆ KI-Bildgenerierung ☆ Exotische Pflanzen ☆ Botanische Gärten ☆ Mode ☆ Trendkultur ☆ osu! und Organisation von Online-Turnieren
+Ölmalerei ☆ Museumbesuche ☆ Fotografie ☆ Bildbearbeitung ☆ KI-Bildgenerierung ☆ Exotische Pflanzen ☆ Botanische Gärten ☆ Mode ☆ Trendkultur ☆ osu! und Online-Turniere
 </div>
