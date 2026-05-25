@@ -58,8 +58,6 @@ WHERE Woche BETWEEN 22 AND 27
 *Problem - fehlende Woche 22 bei Verwaltung:
 In Woche 22 gab es keine offenen Tickets der Verwaltung. Da pd.DataFrame() ohne definierten Index den Index der ersten Spalte übernimmt, fehlte Woche 22 komplett im DataFrame.*
 
-
-*Vorher - fehlerhaft:*
 ```python
 # Vorher - fehlerhaft:
 volume_ver["Offen"] = df_ver[df_ver["Status"] == "Offen"].groupby("Woche")["Status"].count()
