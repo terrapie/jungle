@@ -1,7 +1,9 @@
 ## pandas ☆ MySQL ☆ Grafana
 
-####  05.05.2026 - Fachspezifisches Modul I
-#### [[Kundenverteilung]]
+### Fachspezifisches Modul I
 
+#### 07 - 10.05.2026 [[Abteilungs-Dashboard]]
+
+#### 05.05.2026 [[Kundenverteilung]]
 
 
