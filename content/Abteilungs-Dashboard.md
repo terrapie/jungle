@@ -11,8 +11,10 @@ Tickets über 60 Tage offen haben besondere Priorität.
 
 **Dashboard mit drei Bereichen:**
 
-KPI-Übersicht — Ø Bearbeitungszeit gesamt + nach Abteilung (Bar Chart)
-Kritische Tickets — offen über 60 Tage, mit Priorität
+KPI-Übersicht — Ø Bearbeitungszeit gesamt + nach Abteilung (Bar Chart)  
+
+Kritische Tickets — offen über 60 Tage, mit Priorität  
+
 Ticket Volume — wöchentlicher Verlauf pro Abteilung (abgeschlossen vs. offen)
 
 
