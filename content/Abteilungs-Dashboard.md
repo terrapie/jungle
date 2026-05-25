@@ -1,3 +1,5 @@
+pandas ☆ MySQL ☆ Grafana
+
 ### Ziel
 
 Dashboard für monatliche Abteilungsmeetings. Gibt dem Geschäftsleiter einen Überblick über die Ticketbearbeitung aller Abteilungen - ohne Einzeldaten von Mitarbeitern, Fokus auf Teamleistung.
