@@ -66,7 +66,7 @@ volume_ver["Offen"] = df_ver[df_ver["Status"] == "Offen"].groupby("Woche")["Stat
 
 *Woche 22 nicht im Index, weil keine offenen Tickets vorhanden*
 ```python
-# Lösung — Index von Anfang an definieren:
+# Lösung - Index von Anfang an definieren:
 volume_ver = pd.DataFrame(index=pd.RangeIndex(start=22, stop=29, name="Woche")) volume_ver["Offen"] = df_ver[df_ver["Status"] == "Offen"].groupby("Woche")["Status"].count()
 volume_ver["Abgeschlossen"] = df_ver[df_ver["Status"] == "Abgeschlossen"].groupby("Woche")["Status"].count()
 volume_ver = volume_ver.fillna(0)
