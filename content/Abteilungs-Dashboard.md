@@ -19,7 +19,7 @@ Ticket Volume — wöchentlicher Verlauf pro Abteilung (abgeschlossen vs. offen)
 ![[abteilungen_vergleichen.jpg]]
 
 
-*Entwicklung:*
+###### *Entwicklung:*
 
 *1. Ø Bearbeitungszeit nach Abteilung*
 *In Python: neue Spalte Woche hinzugefügt, dann Gruppierung nach Kategorie und Woche:*
