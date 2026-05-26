@@ -19,4 +19,5 @@ SQL-Abfrage:
 ```sql
 SELECT Bundesland, Latitude, Longitude, count
 FROM df_final
+```
 
