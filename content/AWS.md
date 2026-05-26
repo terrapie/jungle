@@ -1,6 +1,7 @@
 26.05.2026
 
-![[Pasted image 20260526100341.png]]
+![[Pasted image 20260526120839.png]]
+
 
 ![[Pasted image 20260526102714.png]]
 z.B. https://contabo.com/de/
