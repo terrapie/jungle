@@ -42,6 +42,7 @@ https://www.youtube.com/watch?v=ehg1CjYH3Mg&list=PLK9Fkt4sz0MkPrMNNntru8E1p8tGU9
 
 https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 
+
 ---
 ## Modul 1
 
