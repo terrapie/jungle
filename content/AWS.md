@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=ehg1CjYH3Mg&list=PLK9Fkt4sz0MkPrMNNntru8E1p8tGU9
 
 https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 
-
+---
 ## Modul 1
 
 ### Was ist Cloud Computing?
@@ -74,3 +74,6 @@ AWS ist weltweit an mehr Standorten vertreten als alle anderen Cloud-Anbieter. U
 Eine Availability Zone (AZ) ist ein oder mehrere diskrete Rechenzentren mit redundanter Stromversorgung, Vernetzung und Konnektivität in einer AWS Region. Mithilfe dieser Availability Zones (AZs) können Sie Produktionsanwendungen und Datenbanken betreiben, die verfügbarer, fehlertoleranter und skalierbarer sind, als dies von einem einzigen Rechenzentrum aus möglich wäre. Alle AZs in einer AWS-Region sind mit einem Netzwerk mit hoher Bandbreite und niedriger Latenz über eine vollständig redundante, dedizierte Metro-Glasfaser-Leitung miteinander verbunden, die einen hohen Durchsatz und eine niedrige Latenz zwischen den AZ ermöglicht. Der gesamte Datenverkehr zwischen AZs wird verschlüsselt. Die Netzwerkleistung ist ausreichend, um eine synchrone Replikation zwischen AZs zu erreichen. AZs vereinfachen das Partitionieren von Anwendungen für hohe Verfügbarkeit. Wenn die Partition einer Anwendung auf mehrere AZs verteilt ist, sind Unternehmen besser vor Naturereignissen wie Stromausfällen, Blitzeinschlägen, Tornados, Erdbeben usw. isoliert und geschützt. Die AZs sind physisch durch eine große Entfernung, vieler Kilometer, von jeder anderen AZ getrennt, obwohl alle innerhalb von 100 km voneinander liegen.
 
 https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
+
+---
+
