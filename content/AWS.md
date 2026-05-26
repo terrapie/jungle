@@ -2,7 +2,6 @@
 
 ![[Pasted image 20260526120839.png]]
 
-
 ![[Pasted image 20260526102714.png]]
 z.B. https://contabo.com/de/
 
@@ -14,18 +13,15 @@ CPU = Prozessor (das „Gehirn" des Computers). vCPU = ein **virtueller** Prozes
 
 Wenn ein vServer sagt: *„2 vCPU"* → du bekommst **2 virtuelle Rechenkerne**. Mehr vCPU = schneller, mehr kann gleichzeitig laufen.
 
-#### ☆ skillbuilder.aws ☆ AWS Cloud Practitioner Essentials ☆
-
-#### ☆ AWS Cloud Quest ☆
+##### ☆ skillbuilder.aws ☆ AWS Cloud Practitioner Essentials ☆ AWS Cloud Quest ☆
 
 
 ![[Pasted image 20260526110333.png]]
 
-
 ![[Pasted image 20260526110946.png]]
 
 
-*Aufgabe Modul 1 im Skill Builder  
+*Aufgabe Modul 1 im Skill Builder*
 
 *Was ist eine AWS Region, eine Verfügbarkeitszone = AZ = Availability Zone  
 und was ist ein Data Center?*
