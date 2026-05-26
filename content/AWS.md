@@ -24,8 +24,11 @@ Wenn ein vServer sagt: *„2 vCPU"* → du bekommst **2 virtuelle Rechenkerne**.
 ![[Pasted image 20260526110946.png]]
 
 
-*Aufgabe Modul 1 im Skill Builder
-Was sind AWS Regionen und Verfügbarkeitszonen?*
+*Aufgabe Modul 1 im Skill Builder  
+
+*Was ist eine AWS Region, eine Verfügbarkeitszone = AZ = Availability Zone  
+und was ist ein Data Center?*
+*Was sind AWS Edge Locations?*
 
 #### Cloud Computing in der Praxis: Wir erklären Cloud Computing
 https://www.youtube.com/watch?v=NoABtadYfxo&t=13s
