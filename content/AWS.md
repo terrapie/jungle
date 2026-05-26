@@ -1,11 +1,12 @@
-26.05.2026
+## 26.05.2026
 
 ![[Pasted image 20260526120839.png]]
 
 ![[Pasted image 20260526102714.png]]
 z.B. https://contabo.com/de/
 
-### ⚙️ vCPU *(Virtual CPU)*
+
+**⚙️ vCPU *(Virtual CPU)***
 
 **Das ist kein Hosting-Typ – das ist eine Einheit.**
 
@@ -26,15 +27,16 @@ https://skillbuilder.aws/learn
 
 *Was ist eine AWS Region, eine Verfügbarkeitszone = AZ = Availability Zone  
 und was ist ein Data Center?*
+
 *Was sind AWS Edge Locations?*
 
-#### Cloud Computing in der Praxis: Wir erklären Cloud Computing
+Cloud Computing in der Praxis: Wir erklären Cloud Computing
 https://www.youtube.com/watch?v=NoABtadYfxo&t=13s
 
-#### CLOUD (COMPUTING) einfach erklärt
+CLOUD (COMPUTING) einfach erklärt
 https://www.youtube.com/watch?v=ehg1CjYH3Mg&list=PLK9Fkt4sz0MkPrMNNntru8E1p8tGU9m31&index=12
 
-#### Regionen und Availability Zones
+Regionen und Availability Zones
 https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 
 7/9 Anwenden von Cloud-Konzepten auf reale Anwendungsfälle
