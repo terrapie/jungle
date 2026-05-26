@@ -14,6 +14,7 @@ CPU = Prozessor (das „Gehirn" des Computers). vCPU = ein **virtueller** Prozes
 Wenn ein vServer sagt: *„2 vCPU"* → du bekommst **2 virtuelle Rechenkerne**. Mehr vCPU = schneller, mehr kann gleichzeitig laufen.
 
 ##### ☆ skillbuilder.aws ☆ AWS Cloud Practitioner Essentials ☆ AWS Cloud Quest ☆
+https://skillbuilder.aws/learn
 
 
 ![[Pasted image 20260526110333.png]]
