@@ -36,3 +36,5 @@ https://www.youtube.com/watch?v=ehg1CjYH3Mg&list=PLK9Fkt4sz0MkPrMNNntru8E1p8tGU9
 
 #### Regionen und Availability Zones
 https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
+
+7/9 Anwenden von Cloud-Konzepten auf reale Anwendungsfälle
