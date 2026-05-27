@@ -77,4 +77,51 @@ Eine Availability Zone (AZ) ist ein oder mehrere diskrete Rechenzentren mit redu
 https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 
 ---
+## 27.05.2026
+
+**AWS Well-Architected Framework** ist ein Leitfaden von Amazon Web Services, der Best Practices und Designprinzipien für den Aufbau sicherer, leistungsfähiger, zuverlässiger und kosteneffizienter Cloud-Architekturen beschreibt.
+
+Die **6 Säulen des AWS Well-Architected Framework**:
+
+1. **Operational Excellence** – Betrieb und Überwachung von Systemen optimieren
+2. **Security** – Daten, Systeme und Assets schützen
+3. **Reliability** – Ausfallsicherheit und Wiederherstellung gewährleisten
+4. **Performance Efficiency** – Ressourcen effizient einsetzen
+5. **Cost Optimization** – Kosten minimieren ohne Qualitätsverlust
+6. **Sustainability** – Umweltauswirkungen der Cloud-Nutzung reduzieren
+
+
+*Welche Formen der Skalierung gibt es bei AWS?*  
+*z.B. ich habe eine EC2-Instanz (vServer) und dieser ist zu langsam geworden.*
+
+**Vertical Scaling (Scale Up)** → Du nimmst deinen einen Server und machst ihn stärker – wie ein Auto mit einem größeren Motor ausstatten.
+
+**Horizontal Scaling (Scale Out)** → Du fügst einfach mehr Server hinzu – wie statt einem Kassierer drei Kassen gleichzeitig öffnen.
+
+**Elastic Load Balancing (ELB)**
+Stell dir vor, du hast 3 Server – der Load Balancer steht davor und verteilt die eingehenden Anfragen gleichmäßig auf alle drei.
+→ Kein Server wird überlastet, und wenn einer ausfällt, leiten die anderen den Traffic weiter.
+Kurz: **Verkehrsregler für Server.** 🚦
+
+
+*Was ist AWS Lambda und wofür könnte man dieses nutzen?*  
+
+**AWS Lambda** ist ein Dienst, bei dem du **Code ausführst ohne einen Server zu verwalten** – AWS kümmert sich um alles im Hintergrund.
+
+Du zahlst nur, wenn der Code tatsächlich läuft.
+
+**Beispiele:**
+- Bild wird hochgeladen → Lambda verkleinert es automatisch
+- Bestellung kommt rein → Lambda schickt eine Bestätigungs-E-Mail
+- Bestimmte Uhrzeit → Lambda startet automatisch einen Bericht
+Kurz: **Code on demand – kein Server, kein Stress.** ⚡
+
+
+*Was ist ein Container und warum nehme ich keine vServer?*
+
+Ein Container ist wie ein **Päckchen**, das deinen Code + alle benötigten Abhängigkeiten enthält – läuft überall gleich, egal auf welchem System.
+
+![[Pasted image 20260527104648.png]]
+
+Kurz: vServer = ganzes Haus mieten. Container = nur ein Zimmer nutzen. 🏠
 
