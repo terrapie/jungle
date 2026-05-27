@@ -79,7 +79,8 @@ https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 ---
 ## 27.05.2026
 
-**AWS Well-Architected Framework** ist ein Leitfaden von Amazon Web Services, der Best Practices und Designprinzipien für den Aufbau sicherer, leistungsfähiger, zuverlässiger und kosteneffizienter Cloud-Architekturen beschreibt.
+### AWS Well-Architected Framework
+ist ein Leitfaden von Amazon Web Services, der Best Practices und Designprinzipien für den Aufbau sicherer, leistungsfähiger, zuverlässiger und kosteneffizienter Cloud-Architekturen beschreibt.
 
 Die **6 Säulen des AWS Well-Architected Framework**:
 
@@ -94,6 +95,8 @@ Die **6 Säulen des AWS Well-Architected Framework**:
 *Welche Formen der Skalierung gibt es bei AWS?*  
 *z.B. ich habe eine EC2-Instanz (vServer) und dieser ist zu langsam geworden.*
 
+### Formen der Skalierung
+
 **Vertical Scaling (Scale Up)** → Du nimmst deinen einen Server und machst ihn stärker – wie ein Auto mit einem größeren Motor ausstatten.
 
 **Horizontal Scaling (Scale Out)** → Du fügst einfach mehr Server hinzu – wie statt einem Kassierer drei Kassen gleichzeitig öffnen.
@@ -106,7 +109,8 @@ Kurz: **Verkehrsregler für Server.** 🚦
 
 *Was ist AWS Lambda und wofür könnte man dieses nutzen?*  
 
-**AWS Lambda** ist ein Dienst, bei dem du **Code ausführst ohne einen Server zu verwalten** – AWS kümmert sich um alles im Hintergrund.
+### AWS Lambda
+ist ein Dienst, bei dem du **Code ausführst ohne einen Server zu verwalten** – AWS kümmert sich um alles im Hintergrund.
 
 Du zahlst nur, wenn der Code tatsächlich läuft.
 
