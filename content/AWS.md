@@ -178,3 +178,6 @@ Kurz: Security Group = Türsteher am Server, ACL = Türsteher am Stadtviertel �
 
 ![[Pasted image 20260528121632.png]]
 
+*AWS Skillbuilder bis Modul 5 - Globale Netzwerke (also bis DNS)*
+
+*Was ist ein DNS-Server?*
