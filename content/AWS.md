@@ -128,7 +128,7 @@ Ein Container ist wie ein **Päckchen**, das deinen Code + alle benötigten Abh�
 
 Kurz: vServer = ganzes Haus mieten. Container = nur ein Zimmer nutzen. 🏠
 
-
+---
 ## 28.05.2026
 
 
