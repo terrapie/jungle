@@ -44,7 +44,6 @@ https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 
 
 ---
-## Modul 1
 
 ### Was ist Cloud Computing?
 
@@ -177,4 +176,5 @@ Bei AWS heißt der CDN-Dienst: **Amazon CloudFront** 🌍
 
 Kurz: Security Group = Türsteher am Server, ACL = Türsteher am Stadtviertel 🏘️
 
+![[Pasted image 20260528121632.png]]
 
