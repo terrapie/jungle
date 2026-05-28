@@ -21,6 +21,7 @@ in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting, Datenanalyse 
 
 ## IT-Kenntnisse
 ### [[Projekte]]
+### [[Zertifikate]]
 
 - **MS Excel** – Pivot, SVERWEIS, Dashboards
 - **SQL** – Erstellung und Bearbeitung von Tabellen sowie Datenbankabfragen (SELECT, WHERE, JOIN, GROUP BY)
