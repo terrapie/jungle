@@ -129,19 +129,52 @@ Ein Container ist wie ein **Päckchen**, das deinen Code + alle benötigten Abh�
 
 Kurz: vServer = ganzes Haus mieten. Container = nur ein Zimmer nutzen. 🏠
 
-## Modul 2
 
-|Link zur Ressource|Beschreibung|
-|---|---|
-|[Datenverarbeitung in AWS(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/products/compute)|Diese Ressource bietet einen Überblick über die verschiedenen Cloud-Computing-Services, die von AWS angeboten werden.|
-|[AWS Compute Blog(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/blogs/compute/)|Dieser Blog enthält Updates, Tutorials und bewährte Methoden für die Verwendung von AWS-Computing-Services wie Amazon EC2, AWS Lambda, Amazon ECS und mehr.|
-|[AWS-Datenverarbeitungsservices(wird in neuer Registerkarte angezeigt)](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)|Diese Referenz bietet eine ausführliche Einführung in die in der AWS-Cloud verfügbaren Computing-Services.|
-|[Praktische Tutorials: Datenverarbeitung(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/getting-started/hands-on/?awsf.getting-started-category=category%23compute&awsf.getting-started-content-type=content-type%23hands-on)|Diese Ressource bietet Schritt-für-Schritt-Anleitungen, die es Benutzern ermöglichen, praktische Erfahrungen mit AWS-Computing-Services zu sammeln. Ideal für Anfänger und Cloud-Computing-Neulinge.|
-|[Amazon EC2(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/ec2/)|Amazon EC2 betreibt virtuelle Server in der Cloud mit flexibler Rechenkapazität.|
-|[Amazon-EC2-Instance-Typen(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/ec2/instance-types/)|Dieser Leitfaden enthält detaillierte Informationen zu den verschiedenen Typen von EC2 Instances, einschließlich ihrer Spezifikationen, Funktionen und Anwendungsfälle. Der Leitfaden hilft dir, anhand der Rechen-, Arbeitsspeicher- und Speicheranforderungen den richtigen Instance-Typ für deine Workload auszuwählen.|
-|[Amazon EC2 – Preise(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/ec2/pricing/)|In diesem Leitfaden werden die verschiedenen Preismodelle für EC2 Instances erläutert, einschließlich On-Demand, Reserved Instances und Spot-Instances, sodass du je nach Nutzung die beste Option auswählen kannst.|
-|[Amazon EC2 Auto Scaling(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/ec2/autoscaling/)|Amazon EC2 Auto Scaling passt die Anzahl der Instances automatisch an die Nachfrage an, um eine hohe Verfügbarkeit und Kosteneffizienz zu gewährleisten.|
-|[Elastic Load Balancing(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/elasticloadbalancing/)|Elastic Load Balancing verteilt den eingehenden Anwendungsdatenverkehr automatisch auf mehrere EC2 Instances, um eine hohe Verfügbarkeit und Fehlertoleranz zu gewährleisten.|
-|[Amazon Simple Notification Service(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/sns/)|Amazon SNS ist ein Nachrichtendienst zum Senden von Benachrichtigungen an Benutzer oder andere Anwendungen per SMS, E-Mail oder mobilen Push-Benachrichtigungen.|
-|[Amazon Simple Queue Service(wird in neuer Registerkarte angezeigt)](https://aws.amazon.com/sqs/)|Amazon SQS entkoppelt Anwendungskomponenten durch Nachrichtenwarteschlangen und speichert und verarbeitet Nachrichten zuverlässig.|
+## 28.05.2026
+
+
+AWS Outposts nutzt du, wenn du AWS-Infrastruktur und AWS-Services **im eigenen Rechenzentrum oder vor Ort** betreiben willst — aber trotzdem mit der AWS-Cloud verbunden bleiben möchtest.
+
+
+*Was ist und wie funktioniert ein Content Delivery Network (CDN) ?*
+
+### Was ist ein CDN?
+
+Ein CDN ist ein **weltweites Netzwerk von Servern**, das Inhalte näher zum Nutzer bringt.
+
+**Wie funktioniert es?**
+
+Ohne CDN:
+> Nutzer in Tokyo → fragt Server in Frankfurt → langsam 🐢
+
+Mit CDN:
+> Nutzer in Tokyo → fragt nächsten CDN-Server in Tokyo → schnell ⚡
+
+Die Inhalte (Bilder, Videos, HTML) werden auf vielen Servern weltweit **zwischengespeichert (gecacht)**.
+
+Bei AWS heißt der CDN-Dienst: **Amazon CloudFront** 🌍
+
+- CDN speichert statische Inhalte (Bilder, Videos, CSS) auf Servern weltweit
+- Ohne CDN: alle Nutzer verbinden sich mit deinem einen Server (z.B. Frankfurt)
+- Mit CloudFront: Inhalte werden automatisch global verteilt – unabhängig von deiner gewählten Region
+- Statische Inhalte werden **gecacht**, dynamische Inhalte werden **schneller übertragen**
+- CDN verteilt nur **deine** Inhalte – nicht die Daten der Kunden
+
+### Point-to-Site vs. Site-to-Site
+
+**Point-to-Site VPN** Ein einzelner Nutzer (z.B. du zuhause) verbindet sich sicher mit dem Firmennetzwerk. → **1 Person ↔ Netzwerk**
+
+**Site-to-Site VPN** Zwei ganze Netzwerke werden miteinander verbunden (z.B. Büro Berlin ↔ Büro München). → **Netzwerk ↔ Netzwerk**
+
+### Security groups and Network ACLs
+
+![[Pasted image 20260528120323.png]]
+
+**Stateful vs Stateless:**
+
+- **Stateful** (Security Group) – Antwort kommt automatisch durch, keine extra Regel nötig
+- **Stateless** (ACL) – Antwort braucht eine eigene Regel, sonst blockiert ✋
+
+Kurz: Security Group = Türsteher am Server, ACL = Türsteher am Stadtviertel 🏘️
+
 
