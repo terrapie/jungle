@@ -181,3 +181,16 @@ Kurz: Security Group = Türsteher am Server, ACL = Türsteher am Stadtviertel �
 *AWS Skillbuilder bis Modul 5 - Globale Netzwerke (also bis DNS)*
 
 *Was ist ein DNS-Server?*
+
+---
+## 29.05.2026
+
+### Root-Nameserver
+(kurz: _Root-Server_) sind [Server](https://de.wikipedia.org/wiki/Server "Server") zur [Namensauflösung](https://de.wikipedia.org/wiki/Namensauflösung "Namensauflösung") an der Wurzel (_Root_) des [Domain Name Systems](https://de.wikipedia.org/wiki/Domain_Name_System "Domain Name System") im Internet. Die Root-[Zone](https://de.wikipedia.org/wiki/Zone_\(DNS\) "Zone (DNS)") umfasst Namen und [IP-Adressen](https://de.wikipedia.org/wiki/IP-Adresse "IP-Adresse") der Nameserver aller [Top-Level-Domains](https://de.wikipedia.org/wiki/Top-Level-Domain "Top-Level-Domain") (TLD).
+
+https://de.wikipedia.org/wiki/Root-Nameserver
+
+### Beispiel-Fragen
+aws cloud practitioner brain dump
+examtopics clf-c02
+
