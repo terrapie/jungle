@@ -75,6 +75,12 @@ Eine Availability Zone (AZ) ist ein oder mehrere diskrete Rechenzentren mit redu
 
 https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 
+| Link zur Ressource                                                                   | Beschreibung                                                         |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| [Globale AWS-Infrastruktur](https://aws.amazon.com/about-aws/global-infrastructure/) | Globale AWS-Infrastruktur                                            |
+| [AWS für das Edge](https://aws.amazon.com/edge/?nc2=type_a)                          | Erfahre mehr über AWS-Edge-Standorte und Edge-Netzwerke.             |
+| [AWS CloudFormation](https://aws.amazon.com/cloudformation/)                         | Erfahre mehr über den Infrastructure-as-Code-Service CloudFormation. |
+
 ---
 ## 27.05.2026
 
