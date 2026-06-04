@@ -1,4 +1,3 @@
-## 26.05.2026
 
 ![[Pasted image 20260526120839.png]]
 
@@ -44,7 +43,6 @@ https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 
 
 ---
-
 ### Was ist Cloud Computing?
 
 Cloud Computing ist die bedarfsabhängige Bereitstellung von IT-Ressourcen über das Internet zu nutzungsabhängigen Preisen. Statt physische Rechenzentren und Server zu erwerben, zu besitzen und zu unterhalten, können Sie über einen Cloud-Anbieter wie Amazon Web Services (AWS) nach Bedarf auf Technologie-Services wie beispielsweise Rechenleistung, Speicher und Datenbanken zugreifen.
@@ -75,6 +73,8 @@ Eine Availability Zone (AZ) ist ein oder mehrere diskrete Rechenzentren mit redu
 
 https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 
+### Globalisierung
+
 | Link zur Ressource                                                                   | Beschreibung                                                         |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | [Globale AWS-Infrastruktur](https://aws.amazon.com/about-aws/global-infrastructure/) | Globale AWS-Infrastruktur                                            |
@@ -82,8 +82,6 @@ https://aws.amazon.com/de/about-aws/global-infrastructure/regions_az/
 | [AWS CloudFormation](https://aws.amazon.com/cloudformation/)                         | Erfahre mehr über den Infrastructure-as-Code-Service CloudFormation. |
 
 ---
-## 27.05.2026
-
 ### AWS Well-Architected Framework
 ist ein Leitfaden von Amazon Web Services, der Best Practices und Designprinzipien für den Aufbau sicherer, leistungsfähiger, zuverlässiger und kosteneffizienter Cloud-Architekturen beschreibt.
 
@@ -135,8 +133,6 @@ Ein Container ist wie ein **Päckchen**, das deinen Code + alle benötigten Abh�
 Kurz: vServer = ganzes Haus mieten. Container = nur ein Zimmer nutzen. 🏠
 
 ---
-## 28.05.2026
-
 
 AWS Outposts nutzt du, wenn du AWS-Infrastruktur und AWS-Services **im eigenen Rechenzentrum oder vor Ort** betreiben willst — aber trotzdem mit der AWS-Cloud verbunden bleiben möchtest.
 
@@ -189,8 +185,6 @@ Kurz: Security Group = Türsteher am Server, ACL = Türsteher am Stadtviertel �
 *Was ist ein DNS-Server?*
 
 ---
-## 29.05.2026
-
 ### Root-Nameserver
 (kurz: _Root-Server_) sind [Server](https://de.wikipedia.org/wiki/Server "Server") zur [Namensauflösung](https://de.wikipedia.org/wiki/Namensauflösung "Namensauflösung") an der Wurzel (_Root_) des [Domain Name Systems](https://de.wikipedia.org/wiki/Domain_Name_System "Domain Name System") im Internet. Die Root-[Zone](https://de.wikipedia.org/wiki/Zone_\(DNS\) "Zone (DNS)") umfasst Namen und [IP-Adressen](https://de.wikipedia.org/wiki/IP-Adresse "IP-Adresse") der Nameserver aller [Top-Level-Domains](https://de.wikipedia.org/wiki/Top-Level-Domain "Top-Level-Domain") (TLD).
 
