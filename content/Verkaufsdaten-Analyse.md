@@ -48,7 +48,7 @@ Rabatt_Prozent - Mean | Rabatt_Prozent - Median
 
 ---
 
-## "Es gibt in der Region Nord mehr Großkunden und damit höhere Rabatte (incl. Skonto)"
+## "Es gibt in der Region Nord mehr Großkunden und damit höhere Rabatte"
 
 Nord hat tatsächlich die meisten Aufträge im Kundensegment Groß, aber auch die meisten Aufträge im Segment Klein.
 
