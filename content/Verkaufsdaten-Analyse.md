@@ -2,7 +2,6 @@
 
 ![[kundenzufriedenheit_region.jpg]]
 
-Im Norden die höchste Rabatte und die niedrigste Kundenzufriedenheit.
 
 ---
 
