@@ -2,6 +2,5 @@
 
 [[SQL (Basic)]] HackerRank, 11.06.2026
 
-[[AWS]], 20.06.2026
 
 

@@ -7,5 +7,9 @@
 **05.05.2026 [[Kundenverteilung]]**  
 
 
+## Orange
 
+**Fachspezifisches Modul II**
+
+14.07.2026 [[Verkaufsdaten-Analyse]]
 
