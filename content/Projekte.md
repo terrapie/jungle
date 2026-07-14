@@ -4,7 +4,9 @@
 
 **07 - 10.05.2026 [[Abteilungs-Dashboard]]**  
 
-**05.05.2026 [[Kundenverteilung]]**  
+**05.05.2026 [[Kundenverteilung]]**
+
+(noch nicht vollständig)
 
 
 ## Orange
