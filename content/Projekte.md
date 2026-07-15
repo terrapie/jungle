@@ -13,5 +13,5 @@
 
 **Fachspezifisches Modul II**
 
-14.07.2026 [[Verkaufsdaten-Analyse]]
+**14.07.2026 [[Verkaufsdaten-Analyse]]**
 
