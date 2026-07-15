@@ -1,4 +1,4 @@
-## Im Norden hohe Rabatte, geringere Kundenzufriedenheit : Feststellung
+## Im Norden hohe Rabatte, geringere Kundenzufriedenheit: Feststellung
 
 ![[kundenzufriedenheit_region.jpg]]
 
