@@ -20,7 +20,8 @@ gelb - Median | blau - Mittelwert
 
 ---
 
-### Warum klappt es bei anderen Region besser als im Norden? (Kundenzufriedenheit)
+### Warum klappt es bei anderen Region besser?
+(Kundenzufriedenheit)
 
 ![[kundenzufriedenheit_lieferzeit_up.jpg]]
 
@@ -47,7 +48,7 @@ Rabatt_Prozent - Mean | Rabatt_Prozent - Median
 
 ---
 
-## "Es gibt in der Region Nord mehr Großkunden und damit höhere Rabatte"
+## Gibt es in der Region Nord mehr Großkunden und damit höhere Rabatte?
 
 Nord hat tatsächlich die meisten Aufträge im Kundensegment Groß, aber auch die meisten Aufträge im Segment Klein.
 
