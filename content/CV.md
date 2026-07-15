@@ -25,9 +25,8 @@ in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting, Datenanalyse 
 
 - **MS Excel** – Pivot, SVERWEIS, Dashboards
 - **SQL** – Erstellung und Bearbeitung von Tabellen sowie Datenbankabfragen (SELECT, WHERE, JOIN, GROUP BY)
-- **Python** – pandas, Series, DataFrame
+- **Python** – Pandas, Series, DataFrame
 - **Grafana** – Dashboards
-- **SAP S/4HANA Foundation** – Zertifikat mit Auszeichnung, 03.03.2026
 - **KI-Tools** – Anwendung für Recherche und Strukturierung von Informationen
 - **UML & ER-Diagramme** – Verständnis relationaler Modelle und Erstellung von Diagrammen
 
@@ -42,6 +41,7 @@ in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting, Datenanalyse 
 - Erarbeitung von Optimierungsvorschlägen auf Basis von Datenanalysen
 - Dokumentation und Weitergabe von Analyseergebnissen
 - Organisation und Koordination von Waren- und Arbeitsabläufen
+- *Zusätzliche Schulungen: Erste Hilfe und Aufzugsnotfälle*
 
 **10.2018 – 03.2022 · Lagermitarbeiterin**
 **RESERVED**, Recklinghausen
@@ -53,6 +53,8 @@ in der Analyse von Verkaufs- und Umsatzdaten. Praxis in Reporting, Datenanalyse 
 **Rockwell Automation**, Katowice (Polen)
 - Technische Montage nach dokumentierten Prozessen
 - Präzises Arbeiten nach technischen Vorgaben und Standards
+- *Zusatzaufgabe: Kontrolle von Arbeitsplätzen hinsichtlich Arbeitssicherheit, Dokumentation der Ergebnisse und Information der Mitarbeiter bei Abweichungen*
+
 
 ---
 
@@ -66,7 +68,7 @@ Comcave.College, Essen
 **09.2002 – 06.2012**  
 
 Mittlerer Schulabschluss (Fachoberschulreife)
-Siemianowice Śląskie, Polen — anerkannt durch Bezirksregierung Köln
+Siemianowice Śląskie, Polen - anerkannt durch Bezirksregierung Köln
 
 ---
 
