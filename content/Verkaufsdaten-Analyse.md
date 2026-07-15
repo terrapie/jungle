@@ -66,7 +66,7 @@ In der Tabelle haben wir Personen mit demselben Vor- und Nachnamen, die in unter
 ![[verkäufer_rabatt_tabelle.jpg]]
 
 
-Wir können bestätigen, dass **beide Mitarbeiter, die in unterschiedlichen Regionen arbeiten** -darunter auch in Nord - **in der Region Nord mehr Rabatt geben.**
+Wir können bestätigen, dass **beide Mitarbeiter, die in unterschiedlichen Regionen arbeiten** - darunter auch in Nord - **in der Region Nord mehr Rabatt geben.**
 
 ![[Pasted image 20260715111356.png]]
 
