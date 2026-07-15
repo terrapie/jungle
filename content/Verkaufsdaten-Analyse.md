@@ -65,7 +65,12 @@ In der Tabelle haben wir Personen mit demselben Vor- und Nachnamen, die in unter
 
 ![[verkäufer_rabatt_tabelle.jpg]]
 
-Auf den ersten Blick könnte man meinen, dass dieselben Verkäufer in der Region Nord einfach mehr Rabatt geben. Schaut man sich aber die Verkäufer_ID an, sieht man: Das sind nur zufällig gleiche Namen, aber unterschiedliche Personen. Die einzige Person, die wirklich in beiden Regionen gearbeitet hat, ist Jonas Fischer - aber er hat nur eine Transaktion in West. **Deshalb ist ein Vergleich hier unmöglich.**
+
+Wir können bestätigen, dass **beide Mitarbeiter, die in unterschiedlichen Regionen arbeiten** -darunter auch in Nord - **in der Region Nord mehr Rabatt geben.**
+
+![[Pasted image 20260715111356.png]]
+
+*Dabei wurde berücksichtigt, dass der Mitarbeiter, obwohl er unterschiedliche Verkäufer_ID hat, dieselbe Person ist.*
 
 ---
 
