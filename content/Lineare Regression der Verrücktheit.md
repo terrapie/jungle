@@ -47,7 +47,7 @@ zoom:
 
 Die Methode des Engländers war nicht nur ungenau - seine eigenen Daten widersprechen sich sogar selbst. **Laut der linearen Regression wäre das Verhältnis schon um 1988/1989 bei 0 gewesen.** Das würde bedeuten, dass **schon damals alle Menschen verrückt gewesen wären - und nicht erst 2139.**
 
-Obwohl die lineare Regression innerhalb der bekannten Daten eine starke Korrelation zeigt (r = -0,94), führt die Extrapolation weit über den Datenbereich hinaus zu unsinnigen Ergebnissen.
+Obwohl die lineare Regression innerhalb der bekannten Daten eine starke Korrelation zeigt (r = -0,94), führt die Extrapolation weit über den Datenbereich hinaus zu unsinnigen Ergebnissen
 
 
 ![[Pasted image 20260716190657.png]]
