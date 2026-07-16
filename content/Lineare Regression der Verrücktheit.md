@@ -45,3 +45,6 @@ zoom:
 ## Fazit
 
 Die Methode des Engländers war nicht nur ungenau - seine eigenen Daten widersprechen sich sogar selbst. **Laut der linearen Regression wäre das Verhältnis schon um 1988/1989 bei 0 gewesen.** Das würde bedeuten, dass **schon damals alle Menschen verrückt gewesen wären - und nicht erst 2139.**
+
+
+![[Pasted image 20260716190657.png]]
