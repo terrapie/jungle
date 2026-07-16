@@ -1,4 +1,3 @@
-
 ## „Im Jahr 2139 wird es auf der Welt nur noch Verrückte geben"
 
 *Ein Engländer hat berechnet, dass die ganze Welt im Jahr 2139 nur noch aus Verrückten bestehen wird. Dies sind keine Prophezeiungen und auch keine bloßen Mutmaßungen, sondern rein mathematische Berechnungen. Im Jahr 1859 kam ein Verrückter auf 535 Gesunde, im Jahr 1897 bereits nur noch auf 312 Gesunde; das Verhältnis entwickelte sich weiter wie folgt: im Jahr 1926 — 1:150, im Jahr 1977 wird es 1:100 betragen. Setzt man diese Rechenweise fort, gelangt man zu dem Schluss, dass im Jahr 2139 die ganze Welt nur noch aus Verrückten bestehen wird. Diese Berechnungen sind streng mathematisch durchgeführt. Wie könnte man ihnen also nicht glauben!*
@@ -15,7 +14,7 @@ Dieser Artikel stammt aus einer polnischen Zeitung von 1936. Ein Engländer hatt
 Mit Orange möchte ich mit linearer Regression testen, wie sich sein Trend nach 1977 tatsächlich weiterentwickelt, und ob seine Prediction mit einer echten linearen Regression übereinstimmt.
 
 ---
-## Import von CSV mit den Daten und Data Table
+## Import von CSV und Data Table
 
 ![[Pasted image 20260716174414.png]]
 
@@ -29,12 +28,12 @@ Mit Orange möchte ich mit linearer Regression testen, wie sich sein Trend nach 
 **Der Scatter Plot zeigt deutlich: Je später das Jahr, desto weniger Gesunde kommen auf einen Verrückten.**
 
 ---
-## Test-Daten
+## Test - Daten
 
 In den Testdaten habe ich Jahre in 20-Jahres-Abständen sowie die Jahre aus der Zeitung berücksichtigt.
 
 ___
-## Ausgabe: Scatter Plot
+## Scatter Plot: Ausgabe
 
 ![[Pasted image 20260716184925.png|697]]
 
@@ -49,5 +48,20 @@ Die Methode des Engländers war nicht nur ungenau - seine eigenen Daten widerspr
 
 Obwohl die lineare Regression innerhalb der bekannten Daten eine starke Korrelation zeigt (r = -0,94), führt die Extrapolation weit über den Datenbereich hinaus zu unsinnigen Ergebnissen.
 
+Außerdem gibt es keine sinnvolle biologische Grundlage dafür, dass die Anzahl psychisch kranker Menschen linear und unendlich ansteigt.
+
 
 ![[Pasted image 20260716190657.png]]
+
+---
+## Sind die Daten überhaupt linear?
+
+![[Pasted image 20260716231000.png]]
+
+
+In einer kleinen Excel-Tabelle habe ich die Differenz zwischen den aufeinanderfolgenden Jahren sowie die Differenz zwischen der jeweiligen Anzahl der Gesunden pro einem Verrückten berechnet und geschaut, wie sich das Tempo des Rückgangs entwickelt hat
+
+
+![[Pasted image 20260717001657.png]]
+
+Der Graph zeigt deutlich, dass sich die Daten nicht linear verändern. Zwischen 1859 und 1926 sinkt das Verhältnis von Gesunden pro einer verrückten Person um etwa 5 pro Jahr. Bis 1977 sinkt es dann nur noch um knapp 1 pro Jahr, um schließlich bis 2139 auf ein Tempo von 0,617 zu fallen.
