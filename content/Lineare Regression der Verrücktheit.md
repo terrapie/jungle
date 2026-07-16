@@ -39,7 +39,7 @@ ___
 
 zoom:
 
-![[Pasted image 20260716185846.png]]
+![[Pasted image 20260717004256.png]]
 
 ---
 ## Fazit
