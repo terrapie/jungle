@@ -37,6 +37,7 @@ ___
 ## Ausgabe: Scatter Plot
 
 ![[Pasted image 20260716184925.png|697]]
+
 zoom:
 
 ![[Pasted image 20260716185846.png]]
