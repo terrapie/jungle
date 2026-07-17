@@ -54,7 +54,6 @@ Außerdem gibt es keine sinnvolle biologische Grundlage dafür, dass die Anzahl 
 
 ![[Pasted image 20260716231000.png]]
 
-
 In einer kleinen Excel-Tabelle habe ich die Differenz zwischen den aufeinanderfolgenden Jahren sowie die Differenz zwischen der jeweiligen Anzahl der Gesunden pro einem Verrückten berechnet und geschaut, wie sich das Tempo des Rückgangs entwickelt hat
 
 **Wie schnell sinkt das Verhältnis pro Jahr?**
