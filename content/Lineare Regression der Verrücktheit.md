@@ -21,7 +21,7 @@ Mit Orange möchte ich mit linearer Regression testen, wie sich sein Trend nach 
 *Jahr - Feature | Verhaeltnis - Target*
 
 ---
-## Scatter Plot
+## Darstellung der Quelldaten
 
 ![[Pasted image 20260716184025.png]]
 
@@ -33,13 +33,9 @@ Mit Orange möchte ich mit linearer Regression testen, wie sich sein Trend nach 
 In den Testdaten habe ich Jahre in 20-Jahres-Abständen sowie die Jahre aus der Zeitung berücksichtigt.
 
 ___
-## Scatter Plot: Ausgabe
+## Ausgabe
 
-![[Pasted image 20260716184925.png|697]]
-
-zoom:
-
-![[Pasted image 20260717004256.png]]
+![[ausgabe_update.jpg]]
 
 ---
 ## Fazit
@@ -61,7 +57,8 @@ Außerdem gibt es keine sinnvolle biologische Grundlage dafür, dass die Anzahl 
 
 In einer kleinen Excel-Tabelle habe ich die Differenz zwischen den aufeinanderfolgenden Jahren sowie die Differenz zwischen der jeweiligen Anzahl der Gesunden pro einem Verrückten berechnet und geschaut, wie sich das Tempo des Rückgangs entwickelt hat
 
+**Wie schnell sinkt das Verhältnis pro Jahr?**
 
-![[Pasted image 20260717001657.png]]
+![[Screenshot 2026-07-17 090528.jpg]]
 
 Der Graph zeigt deutlich, dass sich die Daten nicht linear verändern. Zwischen 1859 und 1926 sinkt das Verhältnis von Gesunden pro einer verrückten Person um etwa 5 pro Jahr. Bis 1977 sinkt es dann nur noch um knapp 1 pro Jahr, um schließlich bis 2139 auf ein Tempo von 0,617 zu fallen.
