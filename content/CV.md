@@ -74,11 +74,11 @@ Siemianowice Śląskie, Polen - anerkannt durch Bezirksregierung Köln
 
 ## Sprachen
 
-| Sprache | Niveau |
-|---|---|
-| Polnisch | Muttersprache |
-| Deutsch | Fließend |
+| Sprache  | Niveau              |
+| -------- | ------------------- |
+| Deutsch  | Fließend            |
 | Englisch | Kommunikationsfähig |
+| Polnisch | Muttersprache       |
 
 ---
 
