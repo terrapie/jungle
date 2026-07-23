@@ -1,3 +1,13 @@
+## Orange
+
+**Fachspezifisches Modul II**
+
+**23 - 24.07.2026 [[Vorhersage von Maschinenausfällen]]**
+
+**16.07.2026 [[Lineare Regression der Verrücktheit]]**
+
+**14.07.2026 [[Verkaufsdaten-Analyse]]**
+
 ## pandas ☆ MySQL ☆ Grafana
 
 **Fachspezifisches Modul I**
@@ -7,14 +17,3 @@
 **05.05.2026 [[Kundenverteilung]]**
 
 (noch nicht vollständig)
-
-
-## Orange
-
-**Fachspezifisches Modul II**
-
-**14.07.2026 [[Verkaufsdaten-Analyse]]**
-
-**16.07.2026 [[Lineare Regression der Verrücktheit]]**
-
-**23 - 24.07.2026 [[Vorhersage von Maschinenausfällen]]**
