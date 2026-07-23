@@ -5,7 +5,7 @@
 
 ---
 ## Daten verstehen und Modelle fair vergleichen
-#### Trainingsdaten
+### Trainingsdaten
 
 01_maschinen_training_5000.csv
 ![[Pasted image 20260723212150.png]]
@@ -15,7 +15,16 @@ Wir haben 5000 eingelesene Zeilen. Einzelne unvollständige Daten wurden mit dem
 ![[anzahl_ausfälle.jpg]]
 
 ---
-#### Modellauswahl
+### Kurzanalyse Box Plot und Correlations
+
+Die Box-Plot-Analyse hat gezeigt, dass folgende Variablen den größten Einfluss auf Ausfall haben: Alter_Jahre, Betriebsstunden, Oelqualitaet_pct, Temperatur_C, Vibration_mm_s, Wartung_seit_Tagen, Fehlercodes_30T und Last_pct.
+
+Außerdem sieht man bei den Box Plots nach Maschinentyp aufgeteilt, dass **Maschinentyp D am häufigsten Ausfälle hat** - das hängt mit Betriebsstunden, Vibration, Alter_Jahre und der höchsten Anzahl an Tagen seit der letzten Wartung zusammen.
+
+![[Pasted image 20260724000511.png]]
+
+---
+### Modellauswahl
 
 Von allen getesteten Modellen hatten Gradient Boosting und **Logistic Regression die beste Kurve in der ROC-Analyse.** Zusätzlich fiel mir **Naive Bayes durch einen sehr guten Recall auf**, weshalb ich es ebenfalls beibehalten habe. Ich habe diese Modelle sowohl mit allen Daten als auch mit den auf die wichtigsten Parameter gefilterten Daten (ermittelt anhand des Box Plots) verglichen. Da alle Kennzahlen bei den gefilterten Daten besser ausfielen, **habe ich mich für die gefilterte Variante entschieden.**
 
@@ -24,7 +33,7 @@ Von allen getesteten Modellen hatten Gradient Boosting und **Logistic Regression
 grün - Logistic Regression | orange - Naive Bayes
 
 ---
-#### *Stacking*
+### Stacking
 
 Zunächst habe ich diese drei Modelle gestackt, um zu sehen, ob ich dadurch bessere Vorhersagen erhalte. Allerdings haben Gradient Boosting und Logistic Regression den Recall von Naive Bayes gesenkt, während Naive Bayes wiederum den MCC von Logistic Regression verschlechtert hat. Deshalb habe ich mich entschieden, die Modelle getrennt zu betrachten: **Logistic Regression für AUC, F1 und MCC, und separat Naive Bayes für den Recall.** Gradient Boosting habe ich letztlich verworfen, da es sehr ähnliche, jedoch leicht schlechtere Vorhersagen als Logistic Regression lieferte.
 
