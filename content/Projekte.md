@@ -17,3 +17,4 @@
 
 **16.07.2026 [[Lineare Regression der Verrücktheit]]**
 
+**23 - 24.07.2026 [[Vorhersage von Maschinenausfällen]]**
