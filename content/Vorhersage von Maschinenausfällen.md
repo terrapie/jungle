@@ -43,3 +43,30 @@ Zunächst habe ich diese drei Modelle gestackt, um zu sehen, ob ich dadurch bess
 ## Orange
 
 ![[Pasted image 20260723231919.png]]
+
+---
+
+*24.07.2026 Freitag*
+## Unabhängige Validierung
+
+Beim Vergleich der drei Modelle auf den Trainingsdaten und auf den Testdaten (den 1200 neuen Daten) hat sich gezeigt, dass Logistic Regression auf den Testdaten gar nicht mehr gut funktioniert - die meisten Kennzahlen sind auf null gefallen. Auch Gradient Boosting hat auf den Testdaten schlecht abgeschnitten. Deshalb arbeite ich für die weiteren Berechnungen mit **Naive Bayes** weiter.
+
+In der Tabelle mit den Testdaten fehlten Werte in den Spalten Vibration und Ölqualität, und wenn man diese nicht berücksichtigt, wird die Vorhersage besser.
+
+![[Pasted image 20260724114123.png]]
+
+---
+## Praxistest
+
+### Schwellenwert fachlich auswählen
+
+*Übersehener Ausfall: 8.000 Euro | Unnötige Kontrolle: 250 Euro*
+
+Daraus ergibt sich, dass **es sich eher lohnt, fälschlicherweise einen Ausfall zu melden, obwohl die Maschine funktioniert, als einen echten Ausfall zu übersehen.**
+
+![[Pasted image 20260724121636.png]]
+Da ein übersehener Ausfall 8.000 € kostet und eine unnötige Kontrolle nur 250 €, entstehen durch die 167 übersehenen Ausfälle potenzielle Kosten von 167 × 8.000 € = 1.336.000 €, während die 31 falschen Alarme nur 31 × 250 € = 7.750 € kosten. **Deshalb muss das Modell weniger vorsichtig eingestellt werden, damit es mehr Ausfälle erkennt, auch wenn dadurch mehr falsche Alarme entstehen.**
+
+---
+
+
