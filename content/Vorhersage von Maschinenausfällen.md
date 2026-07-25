@@ -30,7 +30,7 @@ Von allen getesteten Modellen hatten Gradient Boosting und **Logistic Regression
 
 ![[Pasted image 20260723230242.png]]
 
-grün - Logistic Regression | orange - Naive Bayes
+*grün - Logistic Regression | orange - Naive Bayes*
 
 ---
 ### Stacking
@@ -38,6 +38,8 @@ grün - Logistic Regression | orange - Naive Bayes
 Zunächst habe ich diese drei Modelle gestackt, um zu sehen, ob ich dadurch bessere Vorhersagen erhalte. Allerdings haben Gradient Boosting und Logistic Regression den Recall von Naive Bayes gesenkt, während Naive Bayes wiederum den MCC von Logistic Regression verschlechtert hat. Deshalb habe ich mich entschieden, die Modelle getrennt zu betrachten: **Logistic Regression für AUC, F1 und MCC, und separat Naive Bayes für den Recall.** Gradient Boosting habe ich letztlich verworfen, da es sehr ähnliche, jedoch leicht schlechtere Vorhersagen als Logistic Regression lieferte.
 
 ![[Pasted image 20260723231548.png]]
+
+*Ausgewählte Modelle*
 
 ---
 ## Orange
@@ -55,6 +57,8 @@ In der Tabelle mit den Testdaten fehlten Werte in den Spalten Vibration und Ölq
 
 ![[Pasted image 20260724114123.png]]
 
+*Trainingsdaten vs. Testdaten*
+
 ---
 ## Praxistest
 
@@ -64,7 +68,8 @@ In der Tabelle mit den Testdaten fehlten Werte in den Spalten Vibration und Ölq
 
 Daraus ergibt sich, dass **es sich eher lohnt, fälschlicherweise einen Ausfall zu melden, obwohl die Maschine funktioniert, als einen echten Ausfall zu übersehen.**
 
-![[Pasted image 20260724121636.png]]
+![[Pasted image 20260725121500.png]]
+*Naive Bayes - Confusion Matrix*
 
 Da ein übersehener Ausfall 8.000 € kostet und eine unnötige Kontrolle nur 250 €, entstehen durch die 167 übersehenen Ausfälle potenzielle Kosten von 167 × 8.000 € = 1.336.000 €, während die 31 falschen Alarme nur 31 × 250 € = 7.750 € kosten. **Deshalb muss das Modell weniger vorsichtig eingestellt werden, damit es mehr Ausfälle erkennt, auch wenn dadurch mehr falsche Alarme entstehen.**
 
