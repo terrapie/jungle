@@ -29,7 +29,6 @@ Außerdem sieht man bei den Box Plots nach Maschinentyp aufgeteilt, dass **Masch
 Von allen getesteten Modellen hatten Gradient Boosting und **Logistic Regression die beste Kurve in der ROC-Analyse.** Zusätzlich fiel mir **Naive Bayes durch einen sehr guten Recall auf**, weshalb ich es ebenfalls beibehalten habe. Ich habe diese Modelle sowohl mit allen Daten als auch mit den auf die wichtigsten Parameter gefilterten Daten (ermittelt anhand des Box Plots) verglichen. Da alle Kennzahlen bei den gefilterten Daten besser ausfielen, **habe ich mich für die gefilterte Variante entschieden.**
 
 ![[Pasted image 20260723230242.png]]
-
 *grün - Logistic Regression | orange - Naive Bayes*
 
 ---
@@ -38,7 +37,6 @@ Von allen getesteten Modellen hatten Gradient Boosting und **Logistic Regression
 Zunächst habe ich diese drei Modelle gestackt, um zu sehen, ob ich dadurch bessere Vorhersagen erhalte. Allerdings haben Gradient Boosting und Logistic Regression den Recall von Naive Bayes gesenkt, während Naive Bayes wiederum den MCC von Logistic Regression verschlechtert hat. Deshalb habe ich mich entschieden, die Modelle getrennt zu betrachten: **Logistic Regression für AUC, F1 und MCC, und separat Naive Bayes für den Recall.** Gradient Boosting habe ich letztlich verworfen, da es sehr ähnliche, jedoch leicht schlechtere Vorhersagen als Logistic Regression lieferte.
 
 ![[Pasted image 20260723231548.png]]
-
 *Ausgewählte Modelle*
 
 ---
@@ -56,7 +54,6 @@ Beim Vergleich der drei Modelle auf den Trainingsdaten und auf den Testdaten (de
 In der Tabelle mit den Testdaten fehlten Werte in den Spalten Vibration und Ölqualität, und wenn man diese nicht berücksichtigt, wird die Vorhersage besser.
 
 ![[Pasted image 20260724114123.png]]
-
 *Trainingsdaten vs. Testdaten*
 
 ---
