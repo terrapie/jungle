@@ -37,7 +37,7 @@ Von allen getesteten Modellen hatten Gradient Boosting und **Logistic Regression
 Zunächst habe ich diese drei Modelle gestackt, um zu sehen, ob ich dadurch bessere Vorhersagen erhalte. Allerdings haben Gradient Boosting und Logistic Regression den Recall von Naive Bayes gesenkt, während Naive Bayes wiederum den MCC von Logistic Regression verschlechtert hat. Deshalb habe ich mich entschieden, die Modelle getrennt zu betrachten: **Logistic Regression für AUC, F1 und MCC, und separat Naive Bayes für den Recall.** Gradient Boosting habe ich letztlich verworfen, da es sehr ähnliche, jedoch leicht schlechtere Vorhersagen als Logistic Regression lieferte.
 
 ![[Pasted image 20260723231548.png]]
-*Ausgewählte Modelle*
+*zuerst ausgewählte Modelle*
 
 ---
 
