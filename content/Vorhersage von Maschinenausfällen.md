@@ -40,11 +40,6 @@ Zunächst habe ich diese drei Modelle gestackt, um zu sehen, ob ich dadurch bess
 *Ausgewählte Modelle*
 
 ---
-## Orange
-
-![[Pasted image 20260723231919.png]]
-
----
 
 *24.07.2026 Freitag*
 ## Unabhängige Validierung
@@ -59,17 +54,37 @@ In der Tabelle mit den Testdaten fehlten Werte in den Spalten Vibration und Ölq
 ---
 ## Praxistest
 
-### Schwellenwert fachlich auswählen
-
 *Übersehener Ausfall: 8.000 Euro | Unnötige Kontrolle: 250 Euro*
-
-Daraus ergibt sich, dass **es sich eher lohnt, fälschlicherweise einen Ausfall zu melden, obwohl die Maschine funktioniert, als einen echten Ausfall zu übersehen.**
 
 ![[Pasted image 20260725121500.png]]
 *Naive Bayes - Confusion Matrix*
 
-Da ein übersehener Ausfall 8.000 € kostet und eine unnötige Kontrolle nur 250 €, entstehen durch die 167 übersehenen Ausfälle potenzielle Kosten von 167 × 8.000 € = 1.336.000 €, während die 31 falschen Alarme nur 31 × 250 € = 7.750 € kosten. **Deshalb muss das Modell weniger vorsichtig eingestellt werden, damit es mehr Ausfälle erkennt, auch wenn dadurch mehr falsche Alarme entstehen.**
+
+**Kostenvergleich:**
+☆ Alle Maschinen als Ausfall markieren: 933 × 250 € = 233.250 €
+☆ Aktuelle Einstellung: 167 × 8.000 € + 31 × 250 € = 1.343.750 €
+
+Daraus ergibt sich, dass **es sich eher lohnt, fälschlicherweise einen Ausfall zu melden, obwohl die Maschine funktioniert, als einen echten Ausfall zu übersehen.**
 
 ---
+### Schwellenwert fachlich auswählen
 
+Bei der Verwendung des Naive Bayes Modells für die Vorhersage lohnt es sich am meisten, den Schwellenwert im Calibration Plot auf 0,02 (für "ja") einzustellen.
+
+![[Pasted image 20260725183811.png]]
+*Naive Bayes, tresh. = 0.98*
+
+
+**Berechnung:**
+☆ Übersehene Ausfälle: 1 × 8.000 € = 8.000 €
+☆ Unnötige Kontrollen: 687 × 250€ = 171.750€
+
+**Gesamtkosten: 179.750€**
+
+
+Im Vergleich zur Markierung aller Maschinen als Ausfall **spart der kalibrierte Schwellenwert:**
+
+![[Pasted image 20260725184125.png]]
+
+---
 
