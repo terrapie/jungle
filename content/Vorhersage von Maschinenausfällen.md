@@ -65,6 +65,7 @@ In der Tabelle mit den Testdaten fehlten Werte in den Spalten Vibration und Ölq
 Daraus ergibt sich, dass **es sich eher lohnt, fälschlicherweise einen Ausfall zu melden, obwohl die Maschine funktioniert, als einen echten Ausfall zu übersehen.**
 
 ![[Pasted image 20260724121636.png]]
+
 Da ein übersehener Ausfall 8.000 € kostet und eine unnötige Kontrolle nur 250 €, entstehen durch die 167 übersehenen Ausfälle potenzielle Kosten von 167 × 8.000 € = 1.336.000 €, während die 31 falschen Alarme nur 31 × 250 € = 7.750 € kosten. **Deshalb muss das Modell weniger vorsichtig eingestellt werden, damit es mehr Ausfälle erkennt, auch wenn dadurch mehr falsche Alarme entstehen.**
 
 ---
