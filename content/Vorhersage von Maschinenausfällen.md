@@ -17,7 +17,7 @@ Wir haben 5000 eingelesene Zeilen. Einzelne unvollständige Daten wurden mit dem
 ---
 ### Kurzanalyse Box Plot und Correlations
 
-Die Box-Plot-Analyse hat gezeigt, dass folgende Variablen den größten Einfluss auf Ausfall haben: Alter_Jahre, Betriebsstunden, Oelqualitaet_pct, Temperatur_C, Vibration_mm_s, Wartung_seit_Tagen, Fehlercodes_30T und Last_pct.
+Die Box-Plot-Analyse hat gezeigt, dass folgende Variablen den größten Einfluss auf Ausfall haben: Alter_Jahre, Betriebsstunden, **Oelqualitaet_pct**, Temperatur_C, Vibration_mm_s, **Wartung_seit_Tagen**, Fehlercodes_30T und Last_pct.
 
 Außerdem sieht man bei den Box Plots nach Maschinentyp aufgeteilt, dass **Maschinentyp D am häufigsten Ausfälle hat** - das hängt mit Betriebsstunden, Vibration, Alter_Jahre und der höchsten Anzahl an Tagen seit der letzten Wartung zusammen.
 
@@ -61,7 +61,9 @@ In der Tabelle mit den Testdaten fehlten Werte in den Spalten Vibration und Ölq
 
 
 **Kostenvergleich:**
+
 ☆ Alle Maschinen als Ausfall markieren: 933 × 250 € = 233.250 €
+
 ☆ Aktuelle Einstellung: 167 × 8.000 € + 31 × 250 € = 1.343.750 €
 
 Daraus ergibt sich, dass **es sich eher lohnt, fälschlicherweise einen Ausfall zu melden, obwohl die Maschine funktioniert, als einen echten Ausfall zu übersehen.**
@@ -76,7 +78,9 @@ Bei der Verwendung des Naive Bayes Modells für die Vorhersage lohnt es sich am 
 
 
 **Berechnung:**
+
 ☆ Übersehene Ausfälle: 1 × 8.000 € = 8.000 €
+
 ☆ Unnötige Kontrollen: 687 × 250€ = 171.750€
 
 **Gesamtkosten: 179.750€**
