@@ -91,4 +91,6 @@ Im Vergleich zur Markierung aller Maschinen als Ausfall **spart der kalibrierte 
 ![[Pasted image 20260725184125.png]]
 
 ---
+## Orange
 
+![[Pasted image 20260726011610.png]]
