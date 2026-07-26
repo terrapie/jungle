@@ -93,12 +93,15 @@ Im Vergleich zur Markierung aller Maschinen als Ausfall **spart der kalibrierte 
 ---
 ## Orange
 
-![[Pasted image 20260726011610.png]]
+![[Pasted image 20260726210027.png]]
 
 ---
 ## Fazit
 
-Obwohl es mir nicht gelungen ist, ein Modell zu erstellen, das eindeutig die Maschinen identifiziert, bei denen ein Ausfall auftreten wird, und obwohl sich angesichts des Kostenverhältnisses zwischen einem übersehenen Ausfall (8000 €) und einer unnötigen Kontrolle (250 €) letztlich am meisten auszahlt, in der Vorhersage alle Maschinen als potenziellen Ausfall zu markieren, **lassen sich aus den Daten dennoch einige Hinweise für das Unternehmen ableiten.**
+Es ist gelungen, ein Modell zu entwickeln, das nahezu alle tatsächlichen Ausfälle korrekt erkennt - allerdings um den Preis, dass über die Hälfte der Maschinen fälschlicherweise als Ausfall markiert wird. Wirtschaftlich betrachtet ist das dennoch die sinnvollere Strategie: Eine unnötige Kontrolle (250 €) kostet deutlich weniger als ein übersehener Ausfall (8.000 €), sodass ein Modell mit hoher Sensitivität trotz vieler Fehlalarme den geringeren Gesamtschaden verursacht.
+
+**Aus den Daten lässt sich außerdem eine konkrete Handlungsempfehlung ableiten, mit der sich der Kontrollaufwand künftig reduzieren lässt.**
+
 
 ![[Pasted image 20260726122314.png]]
 Die Daten zeigen, dass **die Anzahl der Tage seit der letzten Wartung den größten Einfluss darauf hat, ob eine Maschine einen Ausfall haben wird oder nicht.** Vermutlich wird bei der Wartung auch das Öl gewechselt.
