@@ -98,7 +98,7 @@ Im Vergleich zur Markierung aller Maschinen als Ausfall **spart der kalibrierte 
 ---
 ## Fazit
 
-Obwohl es mir nicht gelungen ist, ein Modell zu erstellen, das eindeutig die Maschinen identifiziert, bei denen ein Ausfall auftreten wird, und obwohl sich angesichts des Kostenverhältnisses zwischen einem übersehenen Ausfall (8000 €) und einer unnötigen Kontrolle (250 €) letztlich am meisten auszahlt, in der Vorhersage alle Maschinen als potenziellen Ausfall zu markieren, lassen sich aus den Daten dennoch einige Hinweise für das Unternehmen ableiten.
+Obwohl es mir nicht gelungen ist, ein Modell zu erstellen, das eindeutig die Maschinen identifiziert, bei denen ein Ausfall auftreten wird, und obwohl sich angesichts des Kostenverhältnisses zwischen einem übersehenen Ausfall (8000 €) und einer unnötigen Kontrolle (250 €) letztlich am meisten auszahlt, in der Vorhersage alle Maschinen als potenziellen Ausfall zu markieren, **lassen sich aus den Daten dennoch einige Hinweise für das Unternehmen ableiten.**
 
 ![[Pasted image 20260726122314.png]]
 Die Daten zeigen, dass **die Anzahl der Tage seit der letzten Wartung den größten Einfluss darauf hat, ob eine Maschine einen Ausfall haben wird oder nicht.** Vermutlich wird bei der Wartung auch das Öl gewechselt.
@@ -125,5 +125,6 @@ Aus den Daten geht außerdem hervor, dass Maschinen hohe Betriebsstunden, eine h
 
 ![[Pasted image 20260726132331.png]]
 
-**Wenn man die Maschinen betrachtet, deren Wartung weniger als 60 Tage zurückliegt, hat nur eine von 230 einen Ausfall. Es wäre daher sinnvoll, die Wartung als feste Aufgabe der Maschinenbediener einzuführen - beispielsweise einmal im Monat - und die Mitarbeiter entsprechend zu schulen.**
+**Wenn man die Maschinen betrachtet, deren Wartung weniger als 60 Tage zurückliegt, hat nur eine von 230 einen Ausfall.
+Es wäre daher sinnvoll, die Wartung als feste Aufgabe der Maschinenbediener einzuführen - beispielsweise einmal im Monat - und die Mitarbeiter entsprechend zu schulen.**
 
