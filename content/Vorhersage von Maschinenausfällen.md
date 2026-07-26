@@ -74,7 +74,7 @@ Daraus ergibt sich, dass **es sich eher lohnt, fälschlicherweise einen Ausfall 
 Bei der Verwendung des Naive Bayes Modells für die Vorhersage lohnt es sich am meisten, den Schwellenwert im Calibration Plot auf 0,02 (für "ja") einzustellen.
 
 ![[Pasted image 20260725183811.png]]
-*Naive Bayes, tresh. = 0.98*
+*Naive Bayes, thresh. = 0.98*
 
 
 **Berechnung:**
