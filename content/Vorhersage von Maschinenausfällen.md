@@ -94,3 +94,36 @@ Im Vergleich zur Markierung aller Maschinen als Ausfall **spart der kalibrierte 
 ## Orange
 
 ![[Pasted image 20260726011610.png]]
+
+---
+## Fazit und Handlungsempfehlung
+
+Obwohl es mir nicht gelungen ist, ein Modell zu erstellen, das eindeutig die Maschinen identifiziert, bei denen ein Ausfall auftreten wird, und obwohl sich angesichts des Kostenverhältnisses zwischen einem übersehenen Ausfall (8000 €) und einer unnötigen Kontrolle (250 €) letztlich am meisten auszahlt, in der Vorhersage alle Maschinen als potenziellen Ausfall zu markieren, lassen sich aus den Daten dennoch einige Hinweise für das Unternehmen ableiten.
+
+![[Pasted image 20260726122314.png]]
+Die Daten zeigen, dass **die Anzahl der Tage seit der letzten Wartung den größten Einfluss darauf hat, ob eine Maschine einen Ausfall haben wird oder nicht.** Vermutlich wird bei der Wartung auch das Öl gewechselt.
+
+
+![[Pasted image 20260726122436.png]]
+Aus den Daten geht außerdem hervor, dass Maschinen hohe Betriebsstunden, eine hohe Temperatur oder starke Vibration aufweisen können, aber **solange die Ölqualität gut ist, kommt es meistens nicht zu einem Ausfall.**
+
+
+
+![[Pasted image 20260726123459.png]]
+*Betriebsstunden vs. Ölqualität*
+
+
+![[Pasted image 20260726123808.png]]
+*Temperatur vs. Ölqualität*
+
+
+![[Pasted image 20260726124056.png]]
+*Vibration vs. Ölqualität*
+
+
+Wenn man **die Wartung auf maximal 260 Tage reduzieren würde, ist sofort eine Verringerung der Anzahl der Ausfälle zu erkennen.**
+
+![[Pasted image 20260726125818.png]]
+
+**Man sollte daher die Anzahl der Tage seit der letzten Wartung verringern.**
+
