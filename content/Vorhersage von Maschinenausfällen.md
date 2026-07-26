@@ -124,6 +124,3 @@ Aus den Daten geht außerdem hervor, dass Maschinen hohe Betriebsstunden, eine h
 Wenn man **die Wartung auf maximal 260 Tage reduzieren würde, ist sofort eine Verringerung der Anzahl der Ausfälle zu erkennen.**
 
 ![[Pasted image 20260726125818.png]]
-
-**Man sollte daher die Anzahl der Tage seit der letzten Wartung verringern.**
-
