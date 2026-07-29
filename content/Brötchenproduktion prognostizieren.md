@@ -7,6 +7,7 @@ Von historischen Verkaufszahlen zur Produktionsentscheidung
 *Dabei entstehen zwei Probleme:*
 
 *- Werden zu viele Brötchen produziert, bleiben Waren übrig.*
+
 *- Werden zu wenige Brötchen produziert, können Kunden nicht bedient werden.*
 
 *Die Produktionsleitung möchte deshalb untersuchen, ob die tägliche Verkaufsmenge mit einem Zeitreihenmodell prognostiziert werden kann.*
