@@ -23,3 +23,4 @@ ReLU blockiert negative Werte (und die Null) und gibt positive Werte unveränder
 |     1 |     0 | aktiv     | inaktiv   |       1 | ja           |
 |     1 |     1 | inaktiv   | inaktiv   |       0 | ja           |
 
+...
