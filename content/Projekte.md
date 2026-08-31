@@ -5,6 +5,8 @@
 
 **Fachspezifisches Modul II**
 
+**22.08.2026 [[Neuronale Netze]]**
+
 **29.07.2026 [[Brötchenproduktion prognostizieren]]**
 
 **23 - 24.07.2026 [[Vorhersage von Maschinenausfällen]]**
