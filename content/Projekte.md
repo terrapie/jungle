@@ -13,6 +13,7 @@
 
 **14.07.2026 [[Verkaufsdaten-Analyse]]**
 
+---
 ## pandas ☆ MySQL ☆ Grafana
 
 **Fachspezifisches Modul I**
