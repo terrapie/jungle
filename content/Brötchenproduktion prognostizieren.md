@@ -88,4 +88,4 @@ Der Correlogram zeigt: alle 7 Tage gibt es eine Spitze - das beweist das Wochenm
 
 Der Forecast beginnt am 03.05., also genau am ersten Tag des Testdatensatzes nach dem Time Slice. Die Prognose umfasst 14 Werte, was aufgrund einer fehlenden Folgewertbeobachtung im Datensatz 13 Kalendertagen entspricht. Insgesamt folgt die Prognose dem tatsächlichen Verlauf relativ gut, insbesondere nach der Seasonal Adjustment, wodurch die Vorhersage deutlich genauer geworden ist. Die größten Abweichungen treten vor allem an Feiertagen und Sonntagen auf, da sich das übliche Muster an diesen Tagen verändert. Die tatsächlichen Werte liegen größtenteils innerhalb des Prognoseintervalls, auch wenn es vereinzelt kleinere Abweichungen gibt. Mit zunehmendem Prognosehorizont nimmt die Unsicherheit der Vorhersage zu, was sich an breiter werdenden Prognoseintervallen erkennen lässt und für Zeitreihenprognosen typisch ist.
 
-
+...
