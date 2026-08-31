@@ -82,4 +82,4 @@ Kompletter Weg funktioniert:
 SQL Server (Daten) → Power BI (Import) → Visualisierung
 ```
 
-![[Pasted image 20260831194227.png]]
+![[Pasted image 20260831195604.png]]
