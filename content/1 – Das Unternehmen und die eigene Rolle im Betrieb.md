@@ -355,6 +355,10 @@ Eine Marktform beschreibt, **wie viele Anbieter und Nachfrager** es auf einem Ma
 
 **Einfache Logik dahinter:** Wenn viele Leute etwas wollen, aber es wenig davon gibt → der Preis geht hoch. Wenn es viel von etwas gibt, aber wenig Leute es wollen → der Preis geht runter.
 
+### SWOT - Analyse
+
+![[Pasted image 20260906204753.png]]
+
 ---
 
 ## 9. Präsentation und Kommunikation
