@@ -1,16 +1,3 @@
----
-tags: [AP1, LF3, Netzwerke]
----
-
-# LF3 – Clients in Rechnernetzwerke einbinden (AP1)
-
-> [!info] So benutzt du diese Datei
-> - 🔥 = **muss ich können** (kommt fast jedes Jahr)
-> - 🟠 = wichtig
-> - 🟡 = nur einmal anschauen
-> - Zuerst 🔥 lernen. Dann 🟠. Dann 🟡.
-
----
 
 ## 🔥 1. IPv4
 
@@ -33,11 +20,11 @@ Die **Subnetzmaske** zeigt, wo der Netzanteil endet.
 
 ### Private IP-Adressen (nur im eigenen Netz, nicht im Internet)
 
-| Bereich | Präfix |
-|---|---|
-| 10.0.0.0 – 10.255.255.255 | `10.0.0.0/8` |
-| 172.16.0.0 – 172.31.255.255 | `172.16.0.0/12` |
-| 192.168.0.0 – 192.168.255.255 | `192.168.0.0/16` |
+| Bereich                       | Präfix           | Klasse |
+| ----------------------------- | ---------------- | ------ |
+| 10.0.0.0 – 10.255.255.255     | `10.0.0.0/8`     | A      |
+| 172.16.0.0 – 172.31.255.255   | `172.16.0.0/12`  | B      |
+| 192.168.0.0 – 192.168.255.255 | `192.168.0.0/16` | C      |
 
 Sonderadressen:
 - `127.0.0.1` = **Loopback** (mein eigener PC)
@@ -72,7 +59,9 @@ Die **−2** sind Netzwerkadresse und Broadcastadresse.
 Beispiel /26: 2^(32−26) = 2^6 = 64 → 64 − 2 = **62 Hosts**
 
 > [!tip] Merken
-> Diese Tabelle auswendig lernen. Sie reicht für fast jede Aufgabe.
+> z.B. /27 -> 27 x 1
+> 11111111.11111111.11111111.11100000
+> 5 x 0 -> 2^5 = 32 - 2 = 30 Hosts
 
 ### Netzwerk- und Broadcastadresse bestimmen (Schritt für Schritt)
 
@@ -100,6 +89,16 @@ Beispiel /26: 2^(32−26) = 2^6 = 64 → 64 − 2 = **62 Hosts**
 - Broadcastadresse: `10.5.20.255`
 - Hosts: `10.5.20.129` bis `10.5.20.254` (126 Hosts)
 
+> [!tip] Merken
+> Beispiel 2: 10.5.20.130 /25
+> 11111111.11111111.11111111.10000000
+> 2^7 = 128
+> Erster Teil -> 0 - 127 dann 128 bis (127 + 128 = 255)
+> 130 liegt in 128 - 255 Teil, also:
+> Netzwerkadresse -> .128
+> Broadcastadresse -> .255
+> Hosts dazwischen
+
 ### Sind zwei Geräte im selben Netz?
 
 Beide müssen **dieselbe Netzwerkadresse** haben.
@@ -120,6 +119,15 @@ Aufgabe: `192.168.1.0 /24` in **4 Subnetze** teilen.
   - `192.168.1.64 /26` (Hosts .65 – .126, Broadcast .127)
   - `192.168.1.128 /26` (Hosts .129 – .190, Broadcast .191)
   - `192.168.1.192 /26` (Hosts .193 – .254, Broadcast .255)
+
+> [!tip] Merken
+> in 2 Subnetze teilen -> +1 Bit
+> in 4 Subnetze teilen -> +2 Bits, usw.
+> 11111111.11111111.11111111.00000000 /24
+> 11111111.11111111.11111111.11000000 /26
+> 2^6 = Blockgröße 64
+> .64 Netzwerkadresse +64 = 128 -> nächste Netzwerkadresse, usw.
+> 
 
 ### Welches Präfix brauche ich?
 
