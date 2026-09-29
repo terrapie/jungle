@@ -7,6 +7,9 @@
 
 [[Subnetting]]
 
+[[4 – Schutzbedarfsanalyse]]
+
+[[5 – Software zur Verwaltung von Daten anpassen]]
 
 [[Formeln-Einheiten AP 1]]
 
